@@ -1,10 +1,12 @@
-### Hello, I'm Fernando front end and mobile developer. Programming and technology content creator!👋
+### Hello, I'm Fernando full stack and mobile developer. Programming and technology content creator!👋
 
 
 - 🔭 I’m currently working on front end with HTML5, CSS3, JavaScript, SASS and implementing clean code.
 - 🌱 I’m currently learning Dart/Flutter to focus on mobile technologies.
 - 👯 I'm looking to collaborate in a place where I can acquire more knowledge and collaborate with my experience.
 - ⚡ Fun fact: I started about 15 years ago as a front end dev, a web designer that was called at the time, and now I'm migrating to mobile technologies.
+- My general knowledge with certification  HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Modern), PHP 7, 
+Object orientation POO, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress, Elementor
 
 
 <div align="center">
@@ -27,10 +29,8 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/dev.nando.lourenco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:dev.nando.lourenco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
