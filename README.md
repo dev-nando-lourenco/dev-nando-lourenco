@@ -6,7 +6,7 @@
 - 👯 I'm looking to collaborate in a place where I can acquire more knowledge and collaborate with my experience.
 - ⚡ Fun fact: I started about 15 years ago as a front end dev, a web designer that was called at the time, and now I'm migrating to mobile technologies.
 - 🏆 My general knowledge with certification  HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Modern), PHP 7, 
-Object orientation POO, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress, Elementor
+Object orientation POO, MySQL, PHP with PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress, Elementor
 
 
 <div align="center">
