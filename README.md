@@ -28,7 +28,7 @@ Object orientation POO, MySQL, PHP with PDO, Ajax, JQuery, MVC, APIs, IONIC, Wor
    
   
 </div> 
-  
+ 
   ## 
  
 <div> 
