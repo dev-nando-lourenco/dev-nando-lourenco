@@ -8,7 +8,7 @@
 - 🏆 My general knowledge with certification  HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Modern), PHP 7, 
 Object orientation POO, MySQL, PHP with PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress, Elementor...
 
-
+  
 <div align="center"> 
   <a href="https://github.com/Nando-Lourenco">  
   <img height="46%" src="https://github-readme-stats.vercel.app/api?username=dev-Nando-Lourenco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
